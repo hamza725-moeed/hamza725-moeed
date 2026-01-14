@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Hamza Moeed
 
 ## 💻 Frontend Web Developer | React.js
-
-I'm a passionate **Frontend Web Developer** currently working at **Methologik**.  
+ 
 I love building clean, responsive, and user-friendly web applications using modern JavaScript frameworks.
 
 ---
@@ -20,7 +19,7 @@ I love building clean, responsive, and user-friendly web applications using mode
 
 ### 🌐 Frontend
 - HTML5  
-- CSS3  
+- TypeScript  
 - JavaScript (ES6+)  
 - React.js  
 - Responsive Design  
@@ -46,9 +45,6 @@ I love building clean, responsive, and user-friendly web applications using mode
 - 📊 **Dashboard Application**  
   - Admin dashboard with charts, stats, and reusable components  
   - Focused on clean UI and performance  
-
-- ✅ **React Todo App**  
-  - CRUD operations with Local Storage  
 
 - 🧪 **JavaScript Practice Projects**  
   - Strengthening core JavaScript concepts  
