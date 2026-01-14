@@ -1,20 +1,58 @@
-## Hi there 👋
+# 👋 Hi, I'm Hamza Moeed
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b4bccd02-9753-4578-ba16-408fd0057faa" />
-</p>
+## 💻 Frontend Web Developer | React.js
 
+I'm a passionate **Frontend Web Developer** currently working at **Methologik**.  
+I love building clean, responsive, and user-friendly web applications using modern JavaScript frameworks.
 
-**hamza725-moeed/hamza725-moeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 👨‍💻 Frontend Developer with hands-on industry experience  
+- ⚛️ Specialized in **React.js**
+- 📚 Continuously improving my **JavaScript fundamentals**
+- 🧠 Learning backend (MERN stack) step by step
+- 🎯 Goal: Become a strong Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+
+### 🌐 Frontend
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- React.js  
+- Responsive Design  
+
+### ⚙️ Tools & Technologies
+- Git & GitHub  
+- VS Code  
+- Chrome DevTools  
+
+### 📦 Currently Learning
+- Node.js  
+- Express.js  
+- MongoDB  
+- MERN Stack  
+
+---
+
+## 📌 Projects
+- 🛒 **E-Commerce Website**  
+  - Product listing, cart system, and responsive UI  
+  - Built using React.js & JavaScript  
+
+- 📊 **Dashboard Application**  
+  - Admin dashboard with charts, stats, and reusable components  
+  - Focused on clean UI and performance  
+
+- ✅ **React Todo App**  
+  - CRUD operations with Local Storage  
+
+- 🧪 **JavaScript Practice Projects**  
+  - Strengthening core JavaScript concepts  
+
+---
+
+⭐ If you like my work, consider giving a star!
