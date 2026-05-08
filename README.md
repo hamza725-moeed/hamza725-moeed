@@ -1,54 +1,87 @@
 # 👋 Hi, I'm Hamza Moeed
 
-## 💻 Frontend Web Developer | React.js
- 
-I love building clean, responsive, and user-friendly web applications using modern JavaScript frameworks.
+## 💻 Full Stack Web & Mobile Developer | MERN Stack | Laravel | React Native
+
+I am a passionate Full Stack Developer focused on building modern, responsive, and scalable web & mobile applications using the latest technologies. I enjoy turning ideas into real-world digital products.
 
 ---
 
 ## 🚀 About Me
-- 👨‍💻 Frontend Developer with hands-on industry experience  
-- ⚛️ Specialized in **React.js**
-- 📚 Continuously improving my **JavaScript fundamentals**
-- 🧠 Learning backend (MERN stack) step by step
-- 🎯 Goal: Become a strong Full Stack Developer
+- 👨‍💻 Full Stack Developer (Web + Mobile)
+- ⚛️ Strong expertise in **React.js**
+- 📱 Mobile App Developer using **React Native**
+- 🧠 Experienced in **MERN Stack development**
+- 🛠️ Currently learning **Laravel (PHP Framework)**
+- 🔥 Passionate about building real-world products
+- 🎯 Goal: Become a senior Full Stack & Mobile Developer
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-### 🌐 Frontend
+### 🌐 Frontend (Web)
 - HTML5  
-- TypeScript  
+- CSS3 / Tailwind CSS  
 - JavaScript (ES6+)  
+- TypeScript  
 - React.js  
-- Responsive Design  
+- Responsive UI Design  
 
-### ⚙️ Tools & Technologies
-- Git & GitHub  
-- VS Code  
-- Chrome DevTools  
+---
 
-### 📦 Currently Learning
+### 📱 Mobile Development
+- React Native  
+- React Navigation  
+- REST API Integration  
+- Mobile UI Design  
+- Cross-platform App Development (Android & iOS)
+
+---
+
+### ⚙️ Backend (MERN)
 - Node.js  
 - Express.js  
 - MongoDB  
-- MERN Stack  
+- REST APIs  
+- Authentication (JWT, Cookies, Sessions)  
 
 ---
 
-## 📌 Projects
-- 🛒 **E-Commerce Website**  
-  - Product listing, cart system, and responsive UI  
-  - Built using React.js & JavaScript  
-
-- 📊 **Dashboard Application**  
-  - Admin dashboard with charts, stats, and reusable components  
-  - Focused on clean UI and performance  
-
-- 🧪 **JavaScript Practice Projects**  
-  - Strengthening core JavaScript concepts  
+### 🧩 Backend (Laravel - Learning Phase)
+- PHP  
+- Laravel Framework  
+- MVC Architecture  
+- MySQL  
+- API Development  
+- Authentication & Authorization  
 
 ---
 
-⭐ If you like my work, consider giving a star!
+### 🔧 Tools & Platforms
+- Git & GitHub  
+- VS Code  
+- Postman  
+- Chrome DevTools  
+- Vercel / Netlify  
+- Android Studio (for React Native)
+
+---
+
+## 📦 Current Focus
+- 🔥 Building full-stack MERN projects  
+- 📱 Developing React Native mobile apps  
+- ⚡ Laravel backend development  
+- 🔐 Authentication systems & API security  
+- 🚀 Deployment & production-level apps  
+
+---
+
+## 🎯 Goals
+- Become a professional Full Stack & Mobile Developer  
+- Build scalable SaaS and mobile applications  
+- Work with modern tech teams and startups  
+- Master **MERN + Laravel + React Native ecosystem**
+
+---
+
+⭐ *If you like my work, feel free to star my repositories!*
